@@ -338,10 +338,9 @@ sql-portfolio/
 │   ├── customer_analysis.md           # Customer behavior insights
 │   ├── product_performance.md         # Product & inventory insights
 │   └── office_special_findings.md     # The Office analysis results
-└── visualizations/
-    ├── ratings vs sales.png             
-    ├── revenue barchart.png           
-    └── top10products.png           
+├── ratings vs sales.png             
+├── revenue barchart.png           
+└── top10products.png           
 ```
 
 ---
